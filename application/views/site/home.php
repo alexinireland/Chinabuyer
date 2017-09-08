@@ -18,7 +18,7 @@
 
 		<!-- Company Profile -->
 		<a name="company_profile"></a>
-		<h2>公司简介</h2>
+		<h2>Company Introduction</h2>
 		<p class="well-normal" id="company_profile">
 			Fun Tech成立于2006年，是一家主要定位于shopping centre的电脑，手机，电玩一站式维修及配件销售连锁店。多年的行业经验，精准的终端客户群定位，以及多盈利点的运营模式，是Fun Tech在经济危机中仍能毅力不到的制胜法宝。
 			<br /><br />
