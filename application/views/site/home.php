@@ -27,7 +27,7 @@
 
 		<!-- Project Benefits -->
 		<a name="project_benefits"></a>
-		<h2>项目优势</h2>
+		<h2>What we are doing</h2>
 		<div class="well-normal" id="project_benefits">
 			<p>
 				<strong>1. 成熟完善的店面经营管理模式</strong>
