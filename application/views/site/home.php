@@ -6,13 +6,13 @@
 
 
 <body>
-	
+
 	<header class="classy">
 		<?php echo View::make('site.inc.header', get_defined_vars() )->render()?>
 	</header>
 
 	<div class="wrapper">
-		
+
 		<br /><br />
 		<img style="padding: 20px 0" src="img/transform.jpg" />
 
@@ -64,7 +64,7 @@
 
 		<a name="application_form"></a>
 		<h2>加盟商申请表</h2>
-		
+
 		<div class="well" id="application_form">
 
 			<form class="application_form" method="POST" enctype="multipart/form-data">
@@ -289,7 +289,7 @@
 						</select>
 					</div>
 				</div>
-				
+
 				<br />
 
 				<h4>上传ID | Upload ID</h4>
@@ -304,7 +304,7 @@
 	            </table>
 
 	        </form>
-			
+
 			<p style="font-size: 14px;">由于部分内容涉及商业机密，具体操作细节及内容，我们只有核实并确认申请者身份后才能进行详谈，请谅解因此带来的不便，谢谢您的合作。</p>
 
             <div class="row-fluid" id="file_upload_content">
@@ -314,7 +314,7 @@
                         <input name="myfile" type="file" size="30" />
                         <input type="submit" name="submitBtn" class="btn hide" value="Upload" />
                     </p>
-                     
+
                     <iframe id="upload_target" name="upload_target" src="#" style="width:0;height:0;border:0px solid #fff;"></iframe>
                 </form>
             </div>
